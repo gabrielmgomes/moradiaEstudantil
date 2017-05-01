@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493596270 source:c:\users\gabriel\desktop\unb\quinto semestre (01.2017)\estruturas de dados\trabalho 1 - moradia estudantil - 05.05.17\moradiaestudantil\logica.c
+	<stdlib.h>
+	<stdio.h>
+
+1493595868 source:c:\users\gabriel\desktop\unb\quinto semestre (01.2017)\estruturas de dados\trabalho 1 - moradia estudantil - 05.05.17\moradiaestudantil\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Entrada&Saida.h"
+
+1493585981 c:\users\gabriel\desktop\unb\quinto semestre (01.2017)\estruturas de dados\trabalho 1 - moradia estudantil - 05.05.17\moradiaestudantil\logica.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493596270 c:\users\gabriel\desktop\unb\quinto semestre (01.2017)\estruturas de dados\trabalho 1 - moradia estudantil - 05.05.17\moradiaestudantil\entrada&saida.h
+	<stdlib.h>
+	<stdio.h>
+
